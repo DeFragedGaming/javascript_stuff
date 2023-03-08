@@ -1,1 +1,1 @@
-#Geometric art gen coded in html, css, and js
+Geometric art gen coded in html, css, and js
