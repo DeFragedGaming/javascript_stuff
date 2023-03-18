@@ -1,1 +1,10 @@
 # javascript_stuff Folders For all my JavaScript projects
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/35374865/DeFragedGaming/javascript_stuff/recent-activity/l6U6ITsElSfBEBC-Br85IC2rDzlTLdi-hGCnjL6Ymwo/zLCNTg3P_nenm6_v6UITjCldXqw9cVVMVfkW9Oz7YKM_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/35374865/DeFragedGaming/javascript_stuff/recent-activity/l6U6ITsElSfBEBC-Br85IC2rDzlTLdi-hGCnjL6Ymwo/zLCNTg3P_nenm6_v6UITjCldXqw9cVVMVfkW9Oz7YKM_timeline.svg)](https://github.com/DeFragedGaming/javascript_stuff/commits)
+[![Issue status graph](https://images.repography.com/35374865/DeFragedGaming/javascript_stuff/recent-activity/l6U6ITsElSfBEBC-Br85IC2rDzlTLdi-hGCnjL6Ymwo/zLCNTg3P_nenm6_v6UITjCldXqw9cVVMVfkW9Oz7YKM_issues.svg)](https://github.com/DeFragedGaming/javascript_stuff/issues)
+[![Pull request status graph](https://images.repography.com/35374865/DeFragedGaming/javascript_stuff/recent-activity/l6U6ITsElSfBEBC-Br85IC2rDzlTLdi-hGCnjL6Ymwo/zLCNTg3P_nenm6_v6UITjCldXqw9cVVMVfkW9Oz7YKM_prs.svg)](https://github.com/DeFragedGaming/javascript_stuff/pulls)
+[![Trending topics](https://images.repography.com/35374865/DeFragedGaming/javascript_stuff/recent-activity/l6U6ITsElSfBEBC-Br85IC2rDzlTLdi-hGCnjL6Ymwo/zLCNTg3P_nenm6_v6UITjCldXqw9cVVMVfkW9Oz7YKM_words.svg)](https://github.com/DeFragedGaming/javascript_stuff/commits)
+[![Top contributors](https://images.repography.com/35374865/DeFragedGaming/javascript_stuff/recent-activity/l6U6ITsElSfBEBC-Br85IC2rDzlTLdi-hGCnjL6Ymwo/zLCNTg3P_nenm6_v6UITjCldXqw9cVVMVfkW9Oz7YKM_users.svg)](https://github.com/DeFragedGaming/javascript_stuff/graphs/contributors)
+[![Activity map](https://images.repography.com/35374865/DeFragedGaming/javascript_stuff/recent-activity/l6U6ITsElSfBEBC-Br85IC2rDzlTLdi-hGCnjL6Ymwo/zLCNTg3P_nenm6_v6UITjCldXqw9cVVMVfkW9Oz7YKM_map.svg)](https://github.com/DeFragedGaming/javascript_stuff/commits)
+
