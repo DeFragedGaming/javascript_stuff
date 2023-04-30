@@ -2,9 +2,12 @@ import React, { useEffect, useRef } from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as THREE from 'three';
+import pptxgen from "pptxgenjs";
 
 function App() {
-  const canvasRef = useRef();
+  
+    const pptx = new pptxgen();
+    const canvasRef = useRef();
 
   useEffect(() => {
     const canvas = canvasRef.current;
@@ -52,35 +55,35 @@ function App() {
       </header>
       <main>
         <section>
-          <h1>Welcome to Matthew Hammel's portfolio website</h1>
+          <h1>Welcome to Matthew Hammel's DeVry University portfolio website</h1>
           <p>Hi, my name is Matthew Hammel</p>
         </section>
         <section>
-          <h2>My Projects</h2>
+          <h2>Projects</h2>
           <div className="card">
-            <h3>Project 1</h3>
-            <img src="https://via.placeholder.com/300x150" alt="Project 1" />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod ex et lorem porttitor, at cursus felis cursus. In non arcu enim.</p>
+            <h3>CEIS 101</h3>
+            <iframe src="https://mydevryedu-my.sharepoint.com/personal/mhammel1_my_devry_edu/_layouts/15/Doc.aspx?sourcedoc={23aca671-d715-4923-a2ba-d71a2d73ad12}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+            <p>This was my first tech class where I learned about IoT (Internet of Thing)</p>
             <div className="skills">
-              <span className="skill">React</span>
-              <span className="skill">Node.js</span>
-              <span className="skill">SQL</span>
+              <span className="skill">IoT</span>
             </div>
           </div>
           <div className="card">
-            <h3>Project 2</h3>
-            <img src="https://via.placeholder.com/300x150" alt="Project 2" />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod ex et lorem porttitor, at cursus felis cursus. In non arcu enim.</p>
+            <h3>CEIS 106</h3>
+            <iframe src="https://mydevryedu-my.sharepoint.com/personal/mhammel1_my_devry_edu/_layouts/15/Doc.aspx?sourcedoc={665fedf5-25af-4650-8fe9-eff00073b50b}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+            <p>In this class CEIS 106 I learned about the linux system from creating directories all the way to monitoring the network. </p>
             <div className="skills">
-              <span className="skill">React</span>
-              <span className="skill">Node.js</span>
-              <span className="skill">SQL</span>
+            <span className="skill">Linux Systems</span>
             </div>
           </div>
-        </section>
-        <section>
-          <h2>Three.js Example</h2>
-          <canvas ref={canvasRef}></canvas>
+          <div className="card">
+            <h3>CEIS 110</h3>
+            <iframe src="https://mydevryedu-my.sharepoint.com/personal/mhammel1_my_devry_edu/_layouts/15/Doc.aspx?sourcedoc={df71f43e-ec85-4c5f-af36-c0479fdc73db}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+            <p>In this class CEIS 110 I learned about Python </p>
+            <div className="skills">
+            <span className="skill">Python</span>
+            </div>
+          </div>
         </section>
         <section>
             <h2>Contact Me</h2>
